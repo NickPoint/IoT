@@ -45,7 +45,7 @@
 
 Author: Mykyta Voievudskyi
 
-My partner is [Paul Jürgens](https://github.com/pauljurgens11/iot), [portfolio link TBD](https://github.com/partner/iot-portfolio)
+My partner is [Paul Jürgens](https://github.com/pauljurgens11/iot).
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
