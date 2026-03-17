@@ -1,15 +1,34 @@
 # Pictures for Module 3
 
-## Task 9
+## Week 1: Phase 1 - Phase 4
 
-### DS18B20
+One person in our team done all of it with the person from other team. His name is Tim. Unfortunately, he made screenshots of all the staff. We don't know his Github link, but discord nickname is Shpetim_04874.
 
-![DS18B20](IMG_20260301_214852570.jpg)
-![output](DS18B20-serial-output.png)
+## Week 4
 
-## MRP121
+### Button and temprature sensor are working
 
-![MPR121](IMG_20260301_225800619.jpg)
-![MPR121_2](IMG_20260301_225813035.jpg)
+![Button and temprature sensor](lXEfwbRv.mp4)
 
-![output](MRP121-serial-output.png)
+The best proof that all was working is this video. You can see that when the guy pressing the button Code Blue message was sent every time. Also, temprature sensor sent new values all the time.
+
+![Screeenshot 1, code blue, temprature](7B46Q-z7.jpeg)
+
+### Scene 1 and Scene 2
+
+![Ice on the way, need gauze](pFGxrE0c.jpeg)
+
+### Scene 3
+
+![code blue, temprature](7B46Q-z7.jpeg)
+
+### Scene 4
+
+![all oxygen tanks are okay](xS5VtqE3.jpeg)
+
+### MQTT ON NODE-RED
+
+![node-red](Screenshot from 2026-03-10 12-49-45.png)
+![node-red](Screenshot from 2026-03-10 12-54-41.png)
+![node-red](Screenshot from 2026-03-10 13-00-29.png)
+![node-red](Screenshot from 2026-03-10 13-25-02.png)
