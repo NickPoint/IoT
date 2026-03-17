@@ -28,7 +28,7 @@ The best proof that all was working is this video. You can see that when the guy
 
 ### MQTT ON NODE-RED
 
-![node-red](Screenshot from 2026-03-10 12-49-45.png)
-![node-red](Screenshot from 2026-03-10 12-54-41.png)
-![node-red](Screenshot from 2026-03-10 13-00-29.png)
-![node-red](Screenshot from 2026-03-10 13-25-02.png)
+![node-red](Screenshot1.png)
+![node-red](Screenshot2.png)
+![node-red](Screenshot3.png)
+![node-red](Screenshot4.png)
