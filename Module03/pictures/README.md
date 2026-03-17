@@ -8,7 +8,7 @@ One person in our team done all of it with the person from other team. His name 
 
 ### Button and temprature sensor are working
 
-![Button and temprature sensor](lXEfwbRv.mp4)
+[▶ Watch button and temperature sensor demo](lXEfwbRv.mp4)
 
 The best proof that all was working is this video. You can see that when the guy pressing the button Code Blue message was sent every time. Also, temprature sensor sent new values all the time.
 
